@@ -8,4 +8,4 @@ Este projeto realiza análises estatísticas e visuais dos dados do NFL Big Data
    
    [NFL Big Data Bowl 2025 - Kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data)
 
-2. Extraia o arquivo nfl-big-data-bowl-2025 e coloque-os na mesma pasta do main.py
+2. Extraia o arquivo nfl-big-data-bowl-2025 e coloque-o na mesma pasta do main.py
